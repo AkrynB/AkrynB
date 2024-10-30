@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I am currently a Freshman at Iowa State University Studying Aerospace Engineering with a minor in CompSci
+## I don't really know what I am doing but I am sure gonna give it a try!
 <!--
 **AkrynB/AkrynB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
